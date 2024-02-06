@@ -1,0 +1,1 @@
+Normal2 i corrected the lips in photoshop, but i didnt use it in my artstation presentation, dont really remember why.

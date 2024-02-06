@@ -1,0 +1,3 @@
+Mask is in the BaseColor alpha channel
+
+Dont really need the transitional mesh but i think it gives a nicer feel to the eye
