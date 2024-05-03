@@ -22,6 +22,8 @@ public class MinotaurScript : MonoBehaviour
     public float knockbackTimer;
     [SerializeField] Image hpImage;
     public float hp = 1f;
+    [SerializeField] ParticleSystem exsample;
+    
     
     
     
@@ -275,5 +277,8 @@ public class MinotaurScript : MonoBehaviour
         
 
     }
+
+    
+   
 
 }
