@@ -31,7 +31,7 @@ public class CannonBall : MonoBehaviour
         ball.velocity =  ballDir * ballSpeed; 
         LifeSpan += Time.deltaTime;
 
-        if(LifeSpan > 15){
+        if(LifeSpan > 5){
             Destroy(gameObject);
             
         }
